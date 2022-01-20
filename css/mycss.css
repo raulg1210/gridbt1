@@ -1,0 +1,11 @@
+.bg-image {
+    background-image: url(../img/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.bg-morado {
+    background-color:  hsl(263, 55%, 52%);
+}
+.border-4 {
+    border-width: 4px !important;
+}
